@@ -46,6 +46,7 @@ p{
 }
 section{
     padding-bottom: 50px;
+    clear: both;
 }
 .top{
     background-image: url("img/top-banner.png");
