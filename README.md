@@ -1,0 +1,3 @@
+I am a newbe web developer...
+
+This is my first portfolio, it is in alfa version. I'll make it stable very soon.
